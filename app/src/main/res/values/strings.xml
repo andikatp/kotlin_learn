@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kemnaker</string>
+    <string name="tietNama">Masukkan Nama Anda</string>
+    <string name="tietEmail">Masukkan Email Anda</string>
+    <string name="tietTelepon">Masukkan Nomor Telepon Anda</string>
+    <string name="tietBukuTamu">Isian Buku Tamu</string>
+    <string name="tvKelamin">Jenis Kelamin</string>
+    <string name="rbLaki">Laki-Laki</string>
+    <string name="rbPerempuan">Perempuan</string>
+    <string name="tvHobi">Hobi</string>
+    <string name="cbGame">Main Game</string>
+    <string name="cbBerenang">Berenang</string>
+    <string name="cbMemancing">Memancing</string>
+    <string name="bKirim">Kirim</string>
+    <string name="bReset">Reset</string>
+</resources>
